@@ -1,5 +1,5 @@
 {
-    "drinks": ["drink1", "drink2"],
-    "food": ["Sandwich", "Chips", "Cookie", "Toast", "Salad"]
-    "pastries": ["Croissant", "Donut", "Cinnamon roll"]
+    "drinks": ["Espresso", "Cortado", "Latte", "Americano", "Mocha", "Pour Over", "Drip", "Cold Brew", "Iced Coffee", "Nitro", "Chai", "Matcha", "London Fog", "Dirty Chai"]
+    "food": ["food1", "food2"],
+    "pastries": ["pastries1", "pastries2"]
 }
